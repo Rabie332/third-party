@@ -1,5 +1,5 @@
 {
-    "name": "Public Holidays",
+    "name": "Publissc Holidays",
     "version": "17.0.1.0.0",
     "author": "Hadooc",
     "depends": ["request","mail","hr"],
